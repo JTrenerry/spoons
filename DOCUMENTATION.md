@@ -9,7 +9,7 @@
 ---
 
 ### Values
-The first 128 combinations of 'o', 'O' and '0' are reserved for ascii characters, i.e. numbers, letters etc. For a table of valuues see [here](./VALUES.md)
+The first 128 combinations of 'o', 'O' and '0' are reserved for ascii characters, i.e. numbers, letters etc. For a table of values see [here](./VALUES.md)
 
 ---
 
