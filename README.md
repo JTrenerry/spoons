@@ -1,8 +1,6 @@
 # spoons
 A language based on spoons
 
----
-
 ## Documentation
 Documentation can be found [here](DOCUMENTATION.md)
 
