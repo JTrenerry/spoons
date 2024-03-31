@@ -4,7 +4,7 @@ A language based on spoons
 ---
 
 ## Documentation
-Documentation can be found [here]({{ site.baseurl }}{% link ./DOCUMENTATION.md %})
+Documentation can be found [here](DOCUMENTATION.md)
 
 ## Usage
 Feel free to use I guess? A link to my work with the language can be seen below
