@@ -28,7 +28,7 @@
 | EM    | 00O     | 9     | 0oOo    | Y     | Ooo00   | y     | OOOOO   |
 | SUB   | 000     | :     | 0oOO    | Z     | OoOoo   | z     | OOOO0   |
 | ESC   | Oooo    | ;     | 0oO0    | [     | OoOoO   | {     | OOO0o   |
-| FS    | OooO    | <     | 0o0o    | \     | OoOo0   | |     | OOO0O   |
+| FS    | OooO    | <     | 0o0o    | \     | OoOo0   | &#124;   | OOO0O   |
 | GS    | Ooo0    | =     | 0o0O    | ]     | OoOOo   | }     | OOO00   |
 | RS    | OoOo    | >     | 0o00    | ^     | OoOOO   | ~     | OO0oo   |
 | US    | OoOO    | ?     | 0Ooo    | _     | OoOO0   | DEL   | OO0oO   |
