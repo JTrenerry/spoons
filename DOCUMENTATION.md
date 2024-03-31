@@ -9,7 +9,7 @@
 ---
 
 ### Values
-The first 128 combinations of 'o', 'O' and '0' are reserved for ascii characters, i.e. numbers, letters etc. For a calculator to get a value see here <LINK>
+The first 128 combinations of 'o', 'O' and '0' are reserved for ascii characters, i.e. numbers, letters etc. For a table of valuues see [here](./VALUES.md)
 
 ---
 
