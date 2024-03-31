@@ -1,1 +1,34 @@
-
+| Dec | Char | Dec | Char | Dec | Char | Dec | Char |
+|-------|---------|-------|---------|-------|---------|-------|---------|
+| NUL   | o       | SPACE | OoO0    | @     | 0OoO    | `     | OoO0o   |
+| SOH   | O       | !     | Oo0o    | A     | 0Oo0    | a     | OoO0O   |
+| STX   | 0       | "     | Oo0O    | B     | 0OOo    | b     | OoO00   |
+| ETX   | Oo      | #     | Oo00    | C     | 0OOO    | c     | Oo0oo   |
+| EOT   | OO      | $     | OOoo    | D     | 0OO0    | d     | Oo0oO   |
+| ENQ   | O0      | %     | OOoO    | E     | 0O0o    | e     | Oo0o0   |
+| ACK   | 0o      | &     | OOo0    | F     | 0O0O    | f     | Oo0Oo   |
+| BEL   | 0O      | '     | OOOo    | G     | 0O00    | g     | Oo0OO   |
+| BS    | 00      | (     | OOOO    | H     | 00oo    | h     | Oo0O0   |
+| TAB   | Ooo     | )     | OOO0    | I     | 00oO    | i     | Oo00o   |
+| LF    | OoO     | *     | OO0o    | J     | 00o0    | j     | Oo00O   |
+| VT    | Oo0     | +     | OO0O    | K     | 00Oo    | k     | Oo000   |
+| FF    | OOo     | ,     | OO00    | L     | 00OO    | l     | OOooo   |
+| CR    | OOO     | -     | O0oo    | M     | 00O0    | m     | OOooO   |
+| SO    | OO0     | .     | O0oO    | N     | 000o    | n     | OOoo0   |
+| SI    | O0o     | /     | O0o0    | O     | 000O    | o     | OOoOo   |
+| DLE   | O0O     | 0     | O0Oo    | P     | 0000    | p     | OOoOO   |
+| DC1   | O00     | 1     | O0OO    | Q     | Ooooo   | q     | OOoO0   |
+| DC2   | 0oo     | 2     | O0O0    | R     | OoooO   | r     | OOo0o   |
+| DC3   | 0oO     | 3     | O00o    | S     | Oooo0   | s     | OOo0O   |
+| DC4   | 0o0     | 4     | O00O    | T     | OooOo   | t     | OOo00   |
+| NAK   | 0Oo     | 5     | O000    | U     | OooOO   | u     | OOOoo   |
+| SYN   | 0OO     | 6     | 0ooo    | V     | OooO0   | v     | OOOoO   |
+| ETB   | 0O0     | 7     | 0ooO    | W     | Ooo0o   | w     | OOOo0   |
+| CAN   | 00o     | 8     | 0oo0    | X     | Ooo0O   | x     | OOOOo   |
+| EM    | 00O     | 9     | 0oOo    | Y     | Ooo00   | y     | OOOOO   |
+| SUB   | 000     | :     | 0oOO    | Z     | OoOoo   | z     | OOOO0   |
+| ESC   | Oooo    | ;     | 0oO0    | [     | OoOoO   | {     | OOO0o   |
+| FS    | OooO    | <     | 0o0o    | \     | OoOo0   | |     | OOO0O   |
+| GS    | Ooo0    | =     | 0o0O    | ]     | OoOOo   | }     | OOO00   |
+| RS    | OoOo    | >     | 0o00    | ^     | OoOOO   | ~     | OO0oo   |
+| US    | OoOO    | ?     | 0Ooo    | _     | OoOO0   | DEL   | OO0oO   |
