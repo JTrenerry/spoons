@@ -1,0 +1,10 @@
+Setup all lexical tokens
+
+I need:
+for loops, 
+while loops, 
+tris (true, false and maybe (make maybe a 50/50), 
+if, 
+else, 
+else if, 
+stdout (00000)
