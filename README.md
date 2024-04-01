@@ -1,4 +1,4 @@
-# spoons
+# spoons WIP
 A language based on spoons
 
 ## Documentation
