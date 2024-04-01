@@ -26,7 +26,7 @@ Example Usage:
 To make a string start with a marker (' " ', " ' ", " \` ") followed by '_' and the first character, follow the pattern til the end of the string, to end the string put '_' and a marker (' " ', " ' ", " \` ")
 
 Example Usage:   
-```spOo0O_00oo_Oo0o0_OOooo_OOooo_OoO0_Ooo0o_OOoOo_OOo0o_OOooo_Oo0oO_Oo0o_Oo0On``` would be the string "Hello World!"
+```spOo0O_00oo_Oo0o0_OOooo_OOooo_OoO0_Ooo0o_OOoOo_OOo0o_OOooo_Oo0oO_Oo0o_Oo0On``` would be the string "Hello World!", but that does not do anything so...
 
 To print it simply add the stdout key word (```00000```) before and after it:   
 ```sp00000-Oo0O_00oo_Oo0o0_OOooo_OOooo_OoO0_Ooo0o_OOoOo_OOo0o_OOooo_Oo0oO_Oo0o_Oo0O-00000n```
