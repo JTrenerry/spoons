@@ -1,8 +1,8 @@
 # Documentation
 
 ### The Basics
-1. Every line needs to start with either EOF or 'sp'.
-2. Every line must end in 'n' or EOF.
+1. Every block of code needs to start with 'sp'.
+2. Every block of code must end in 'n'.
 3. Uses a ternary like system between the characters o = 0, O = 1 and 0 = 2.
 4. Codes should be seperated by a '-'
 5. Variables are loosly typed (i.e. like python)
