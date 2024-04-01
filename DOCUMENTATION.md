@@ -5,7 +5,7 @@
 2. Every block of code must end in 'n'.
 3. Uses a ternary like system between the characters o = 0, O = 1 and 0 = 2.
 4. Codes should be seperated by a '-'
-5. Variables are loosly typed (i.e. like python)
+5. Variables are loosely typed (i.e. like python)
 
 ---
 
@@ -23,7 +23,7 @@ Example Usage:
 ---
 
 ### Strings
-To make a string start with a marker (' " ', " ' ", " \` ") followed by '_' and the first character, follow the pattern til the end of the string, to end the string put one more marker (' " ', " ' ", " \` ")
+To make a string start with a marker (' " ', " ' ", " \` ") followed by '_' and the first character, follow the pattern til the end of the string, to end the string put '_' and a marker (' " ', " ' ", " \` ")
 
 Example Usage:   
 ```spOo0O_00oo_Oo0o0_OOooo_OOooo_OoO0_Ooo0o_OOoOo_OOo0o_OOooo_Oo0oO_Oo0o_Oo0On``` would be the string "Hello World!"
